@@ -1,3 +1,5 @@
+from stack import Stack
+
 def is_balanced(expr):
     left = "({["
     right = ")}]"
