@@ -1,4 +1,4 @@
 geeknight
 =========
 
-Esoteric Datastructures geeknigh presentation
+Esoteric Data structures GeekNight presentation
